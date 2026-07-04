@@ -142,18 +142,6 @@ Collection of Data Structures & Algorithms solutions with explanations.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Raza9627&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raza9627&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -172,16 +160,6 @@ Collection of Data Structures & Algorithms solutions with explanations.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raza9627&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions later.
-
-```text
-https://raw.githubusercontent.com/Raza9627/Raza9627/output/github-contribution-grid-snake.svg
-```
 
 ---
 
@@ -204,7 +182,7 @@ https://raw.githubusercontent.com/Raza9627/Raza9627/output/github-contribution-g
 
 ✅ Learn System Design
 
-✅ Build 10+ Production Projects
+✅ Build 4+ Production Projects
 
 ✅ Contribute to Open Source
 
